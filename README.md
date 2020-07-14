@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 ### Get in touch
 
-[![Twitter](.github/icons/social/twitter.png)](https://twitter.com/equiman)
-[![Dev.to](.github/icons/social/devto.png)](https://dev.to/equiman)
-[![YouTube](.github/icons/social/youtube.png)](https://youtube.com/c/equimancho)
-[![LinkeIn](.github/icons/social/youtube.png)](https://linkedin.com/in/equiman)
+[![Twitter](.github/icons/social/twitter-48.png)](https://twitter.com/equiman)
+[![Dev.to](.github/icons/social/devto-48.png)](https://dev.to/equiman)
+[![YouTube](.github/icons/social/youtube-48.png)](https://youtube.com/c/equimancho)
+[![LinkeIn](.github/icons/social/youtube-48.png)](https://linkedin.com/in/equiman)
 
 ### Sponsors
 
