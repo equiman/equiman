@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Twitter](https://raw.githubusercontent.com/equiman/equiman/master/.github/icons/social/twitter-48.png)](https://twitter.com/equiman)
 [![Dev.to](https://raw.githubusercontent.com/equiman/equiman/master/.github/icons/social/devto-48.png)](https://dev.to/equiman)
 [![YouTube](https://raw.githubusercontent.com/equiman/equiman/master/.github/icons/social/youtube-48.png)](https://youtube.com/c/equimancho)
-[![LinkeIn](https://raw.githubusercontent.com/equiman/equiman/master/.github/icons/social/youtube-48.png)](https://linkedin.com/in/equiman)
+[![LinkeIn](https://raw.githubusercontent.com/equiman/equiman/master/.github/icons/social/linkedin-48.png)](https://linkedin.com/in/equiman)
 
 ### Sponsors
 
