@@ -2,30 +2,15 @@
 
 A software developer enthusiast from Medellín, Colombia 🇨🇴.
 
-<!--
-**equiman/equiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### About
 
 ```javascript
 const equiman = {
   me: [Family Man, Engineer, Software Developer, Metalhead ]
   code: [Javascript, HTML, CSS, C#, SQL, bash, batch],
-  tools: [VS Code ❤️, GitHub, GitHub Actions, Gulp, Jenkins, Gimp, SonarQube],
+  tools: [visual-studio-code, github, github-actions, gulp, jenkins, gimp, sonar-qube],
   os: [Windows, Ubuntu, macOS],
-  worked-with: [ext.net, razor, apache-cordova, sql-server, mysql, jquery, bootstrap, excel, vba, wordpress, phpBB, php],
+  worked-with: [ext.net, razor, apache-cordova, sql-server, mysql, jquery, bootstrap, excel, vba, wordpress, php],
   learning: [english, react]
 }
 ```
