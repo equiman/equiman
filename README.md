@@ -6,12 +6,12 @@ A software developer enthusiast from Medellín, Colombia 🇨🇴.
 
 ```javascript
 const equiman = {
-  me: [Family Man, Engineer, Software Developer, Metalhead ]
-  code: [Javascript, HTML, CSS, C#, SQL, bash, batch],
-  tools: [visual-studio-code, github, github-actions, gulp, jenkins, gimp, sonar-qube],
-  os: [Windows, Ubuntu, macOS],
-  worked-with: [ext.net, razor, apache-cordova, sql-server, mysql, jquery, bootstrap, excel, vba, wordpress, php],
-  learning: [english, react]
+  me: [ family-man, engineer, software-developer, metalhead ]
+  code: [ javascript, html, css, c-sharp, sql, bash, batch ],
+  tools: [ visual-studio-code, github, github-actions, gulp, jenkins, gimp, sonar-qube ],
+  os: [ windows, ubuntu, macos ],
+  worked-with: [ ext.net, razor, apache-cordova, sql-server, mysql, jquery, bootstrap, excel, vba, wordpress, php ],
+  learning: [ english, react ]
 }
 ```
 
