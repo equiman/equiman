@@ -1,6 +1,6 @@
 ## Hi 👋, I'm **Camilo Martínez** better known as **Equiman**
 
-A software developer enthusiast from Medellín, Colombia 🇨🇴.
+👨‍💻 A software developer enthusiast from Medellín, Colombia 🇨🇴.
 
 ### About
 
@@ -41,7 +41,7 @@ Incluye explicación detallada y ejercicios prácticos.
 
 ### Get in touch
 
-Talk nerdy to me!
+Talk nerdy to me! 🤓
 
 [![Twitter](https://raw.githubusercontent.com/equiman/equiman/master/.github/icons/social/twitter-48.png)](https://twitter.com/equiman)
 [![Dev.to](https://raw.githubusercontent.com/equiman/equiman/master/.github/icons/social/devto-48.png)](https://dev.to/equiman)
