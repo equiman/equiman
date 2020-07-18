@@ -1,4 +1,4 @@
-## Hi 👋, fellow <coders!> 👨‍💻👩‍💻
+## Hi 👋, fellow <coders!> 👩‍💻👨‍💻
 
 I'm **Camilo Martínez**, better known as **Equiman**.  
 I'm a software developer enthusiast from Medellín, Colombia 🇨🇴.
