@@ -17,10 +17,11 @@ const equiman = {
 
 ### 🇺🇸 NuGet Packages - C# .Net Core Console Libraries for Win+Mac+Linux
 
-|||
-|-|-|
-|- [Colorify](https://github.com/deinsoftware/colorify) - Text Format: colors, alignment and lot more.|[![Downloads](https://img.shields.io/nuget/dt/dein.Colorify.svg)](https://www.nuget.org/packages/dein.Colorify/)|
-|- [ToolBox](https://github.com/deinsoftware/toolbox) - Utilities like: command line, files, log, platform, shell, system, transform and validation.|[![Downloads](https://img.shields.io/nuget/dt/dein.Toolbox.svg)](https://www.nuget.org/packages/dein.Toolbox/)|
+- [Colorify](https://github.com/deinsoftware/colorify) - Text Format: colors, alignment and lot more.  
+[![Downloads](https://img.shields.io/nuget/dt/dein.Colorify.svg)](https://www.nuget.org/packages/dein.Colorify/)
+
+- [ToolBox](https://github.com/deinsoftware/toolbox) - Utilities like: command line, files, log, platform, shell, system, transform and validation.  
+  [![Downloads](https://img.shields.io/nuget/dt/dein.Toolbox.svg)](https://www.nuget.org/packages/dein.Toolbox/)
 
 ### 🇺🇸 Top Articles
 
