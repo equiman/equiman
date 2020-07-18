@@ -17,16 +17,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About me
-
+### About
 
 ```javascript
 const equiman = {
   me: [Family Man, Engineer, Software Developer, Metalhead, English Student ]
   code: [Javascript, HTML, CSS, C#, SQL, bash, batch],
-  tools: [VS Code ❤️, GitHub, GitHub Actions, Gulp, Jenkins, Gimp],
+  tools: [VS Code ❤️, GitHub, GitHub Actions, Gulp, Jenkins, Gimp, SonarQube],
   os: [Windows, Ubuntu, macOS],
-  worked-with: [php, mysql, sqlserver, excel, vba, jquery, bootstrap, ext.net]
+  worked-with: [ext.net, razor, apache-cordova, sql-server, mysql, jquery, bootstrap, excel, vba, wordpress, phpBB, php]
 }
 ```
 
