@@ -21,11 +21,12 @@ Here are some ideas to get you started:
 
 ```javascript
 const equiman = {
-  me: [Family Man, Engineer, Software Developer, Metalhead, English Student ]
+  me: [Family Man, Engineer, Software Developer, Metalhead ]
   code: [Javascript, HTML, CSS, C#, SQL, bash, batch],
   tools: [VS Code ❤️, GitHub, GitHub Actions, Gulp, Jenkins, Gimp, SonarQube],
   os: [Windows, Ubuntu, macOS],
-  worked-with: [ext.net, razor, apache-cordova, sql-server, mysql, jquery, bootstrap, excel, vba, wordpress, phpBB, php]
+  worked-with: [ext.net, razor, apache-cordova, sql-server, mysql, jquery, bootstrap, excel, vba, wordpress, phpBB, php],
+  learning: [english, react]
 }
 ```
 
