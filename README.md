@@ -1,6 +1,7 @@
-## Hi 👋, I'm **Camilo Martínez** better known as **Equiman**
+## Hi 👋, fellow <coders!> 👨‍💻
 
-👨‍💻 A software developer enthusiast from Medellín, Colombia 🇨🇴.
+I'm **Camilo Martínez**, better known as **Equiman**.  
+I'm a software developer enthusiast from Medellín, Colombia 🇨🇴.
 
 ### About
 
@@ -48,16 +49,16 @@ Incluye explicación detallada y ejercicios prácticos.
 
 Talk nerdy to me! 🤓
 
-[![Twitter Badge](https://img.shields.io/badge/-@equiman-gray?style=flat&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/equiman)](https://twitter.com/equiman) 
-[![Dev.to Badge](https://img.shields.io/badge/-@equiman-gray?style=flat&labelColor=0A0A0A&logo=dev.to&logoColor=white&link=https://dev.to/equiman)](https://dev.to/equiman) 
-[![YouTube Badge](https://img.shields.io/badge/-@equimancho-gray?style=flat&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c//equimancho)](https://youtube.com/c//equimancho) 
-[![StackOverflow Badge](https://img.shields.io/badge/-@equiman-gray?style=flat&labelColor=FE7A16&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/story/equiman)](https://stackoverflow.com/story/equiman) 
-[![LinkedIn Badge](https://img.shields.io/badge/-@equiman-gray?style=flat&labelColor=0077B5&logo=linkedin&logoColor=white&link=https://linkedin.com/in/equiman)](https://linkedin.com/in/equiman) 
+[![Twitter Badge](https://img.shields.io/badge/-@equiman-gray?style=flat&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/equiman)](https://twitter.com/equiman)
+[![Dev.to Badge](https://img.shields.io/badge/-@equiman-gray?style=flat&labelColor=0A0A0A&logo=dev.to&logoColor=white&link=https://dev.to/equiman)](https://dev.to/equiman)
+[![YouTube Badge](https://img.shields.io/badge/-@equimancho-gray?style=flat&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c//equimancho)](https://youtube.com/c//equimancho)
+[![StackOverflow Badge](https://img.shields.io/badge/-@equiman-gray?style=flat&labelColor=FE7A16&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/story/equiman)](https://stackoverflow.com/story/equiman)
+[![LinkedIn Badge](https://img.shields.io/badge/-@equiman-gray?style=flat&labelColor=0077B5&logo=linkedin&logoColor=white&link=https://linkedin.com/in/equiman)](https://linkedin.com/in/equiman)
 
 ### Sponsors
 
 You can support my work to create free articles, courses, and workshops about development, inviting me to a cup of coffee.
 
-[![PayPal Badge](https://img.shields.io/badge/-PayPal-gray?style=flat&labelColor=00457C&logo=paypal&logoColor=white&link=https://paypal.me/equiman/3)](https://paypal.me/equiman/3) 
-[![Patreon Badge](https://img.shields.io/badge/-Patreon-gray?style=flat&labelColor=052d49&logo=patreon&logoColor=F96854&link=https://patreon.com/equiman)](https://patreon.com/equiman) 
-[![Buy Me A Coffee Badge](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-gray?style=flat&labelColor=FF813F&logo=buy-me-a-coffee&logoColor=white&link=https://buymeacoff.ee/equiman)](https://buymeacoff.ee/equiman) 
+[![PayPal Badge](https://img.shields.io/badge/-PayPal-gray?style=flat&labelColor=00457C&logo=paypal&logoColor=white&link=https://paypal.me/equiman/3)](https://paypal.me/equiman/3)
+[![Patreon Badge](https://img.shields.io/badge/-Patreon-gray?style=flat&labelColor=052d49&logo=patreon&logoColor=F96854&link=https://patreon.com/equiman)](https://patreon.com/equiman)
+[![Buy Me A Coffee Badge](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-gray?style=flat&labelColor=FF813F&logo=buy-me-a-coffee&logoColor=white&link=https://buymeacoff.ee/equiman)](https://buymeacoff.ee/equiman)
