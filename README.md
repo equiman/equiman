@@ -1,4 +1,4 @@
-### Hi 👋, I'm **Camilo Martínez** better known as **Equiman**
+## Hi 👋, I'm **Camilo Martínez** better known as **Equiman**
 
 A software developer enthusiast from Medellín, Colombia 🇨🇴.
 
@@ -15,10 +15,10 @@ const equiman = {
 }
 ```
 
-###  🇺🇸 NuGet Packages - C# .Net Core Console Libraries for Win+Mac+Linux
+### 🇺🇸 NuGet Packages - C# .Net Core Console Libraries for Win+Mac+Linux
 
-- [Colorify](https://github.com/deinsoftware/colorify) - Text Format: colors, alignment and lot more. [![Downloads](https://img.shields.io/nuget/dt/dein.Colorify.svg)](https://www.nuget.org/packages/dein.Colorify/) 
-- [ToolBox](https://github.com/deinsoftware/toolbox) - Utilities like: command line, files, log, platform, shell, system, transform and validation. [![Downloads](https://img.shields.io/nuget/dt/dein.Toolbox.svg)](https://www.nuget.org/packages/dein.Toolbox/) 
+- [Colorify](https://github.com/deinsoftware/colorify) - Text Format: colors, alignment and lot more. [![Downloads](https://img.shields.io/nuget/dt/dein.Colorify.svg)](https://www.nuget.org/packages/dein.Colorify/)
+- [ToolBox](https://github.com/deinsoftware/toolbox) - Utilities like: command line, files, log, platform, shell, system, transform and validation. [![Downloads](https://img.shields.io/nuget/dt/dein.Toolbox.svg)](https://www.nuget.org/packages/dein.Toolbox/)
 
 ### 🇺🇸 Top Articles
 
@@ -35,9 +35,9 @@ const equiman = {
 
 ### 🇪🇸 Cursos
 
-Curso sobre JSON (**GRATIS** en Youtube)    
+Curso sobre JSON (**GRATIS** en YouTube)  
 [![Curso de JSON](https://img.youtube.com/vi/JJFXgEpcGbg/mqdefault.jpg)](https://www.youtube.com/playlist?list=PLrDTf5qnZdEAiHO19QB9hq5QXAef1h8oY)  
-Incluye explicación detallada y ejercicios prácticos. 
+Incluye explicación detallada y ejercicios prácticos.
 
 ### Get in touch
 
@@ -46,7 +46,7 @@ Talk nerdy to me!
 [![Twitter](https://raw.githubusercontent.com/equiman/equiman/master/.github/icons/social/twitter-48.png)](https://twitter.com/equiman)
 [![Dev.to](https://raw.githubusercontent.com/equiman/equiman/master/.github/icons/social/devto-48.png)](https://dev.to/equiman)
 [![YouTube](https://raw.githubusercontent.com/equiman/equiman/master/.github/icons/social/youtube-48.png)](https://youtube.com/c/equimancho)
-[![LinkeIn](https://raw.githubusercontent.com/equiman/equiman/master/.github/icons/social/linkedin-48.png)](https://linkedin.com/in/equiman)
+[![LinkedIn](https://raw.githubusercontent.com/equiman/equiman/master/.github/icons/social/linkedin-48.png)](https://linkedin.com/in/equiman)
 
 ### Sponsors
 
