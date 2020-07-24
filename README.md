@@ -6,14 +6,14 @@ I'm a software developer enthusiast from Medellín, Colombia 🇨🇴.
 ### About
 
 ```javascript
-const equiman = {
-  me: [ family-man, engineer, software-developer, metalhead ]
-  code: [ javascript, html, css, c-sharp, sql, bash, batch ],
-  tools: [ visual-studio-code, github, github-actions, gulp, jenkins, gimp, sonar-qube ],
-  os: [ windows, ubuntu, macos ],
-  worked: [ ext-net, razor, apache-cordova, sql-server, mysql, jquery, bootstrap, excel, vba, wordpress, php ],
-  learning: [ english, react ]
-}
+const equiman = () => ({
+  me: [ "family-man", "engineer", "software-developer", "metalhead" ],
+  code: [ "javascript", "html", "css", "c-sharp", "sql", "bash", "batch" ],
+  tools: [ "visual-studio-code", "github", "github-actions", "gulp", "jenkins", "gimp", "sonar-qube" ],
+  os: [ "windows", "ubuntu", "macos" ],
+  worked: [ "ext-net", "razor", "apache-cordova", "sql-server", "mysql", "jquery", "bootstrap", "excel", "vba", "wordpress", "php" ],
+  learning: [ "english", "react", "jest" ]
+})
 ```
 
 ### 🇺🇸 NuGet Packages - C# .Net Core Console Libraries for Win+Mac+Linux
