@@ -1,7 +1,6 @@
 ## console.log('Hello World! 👋, fellow <coders!> 👩‍💻👨‍💻') 
 
-I'm **Camilo Martínez**, better known as **Equiman**.  
-I'm a software developer enthusiast from Medellín, Colombia 🇨🇴.
+I'm **Camilo Martínez**, better known as **Equiman** a software developer enthusiast from Medellín, Colombia 🇨🇴.
 
 ### About
 
