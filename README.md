@@ -10,7 +10,7 @@ const equiman = () => ({
   code: [ "javascript", "html", "css", "c-sharp", "sql", "bash", "batch" ],
   tools: [ "visual-studio-code", "github", "github-actions", "gulp", "jenkins", "gimp", "sonar-qube" ],
   os: [ "windows", "ubuntu", "macos" ],
-  worked: [ "apache-cordova", "jquery", "bootstrap", "ext-net", "razor", "sql-server", "mysql", "excel-vba", "php" ],
+  worked: [ "apache-cordova", "jquery", "bootstrap", "ext-net", "razor", "sql-server", "mysql", "excel-vba"],
   learning: [ "english", "react", "jest" ]
 })
 ```
