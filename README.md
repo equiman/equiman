@@ -52,7 +52,7 @@ Incluye explicación detallada y ejercicios prácticos.
 
 Workshop Sobre JSON (**GRATIS** en YouTube)  
 [![Workshop de JSON](https://img.youtube.com/vi/draXtq0gTrM/mqdefault.jpg)](https://www.youtube.com/playlist?list=PLrDTf5qnZdEDF1wXZjpJGfIf82r0Z_Meb)  
-Online para la comuidad de [ReactCBA](https://twitter.com/reactcba) 🇦🇷
+Online para la comunidad de [ReactCBA](https://twitter.com/reactcba) 🇦🇷
 
 ---
 
