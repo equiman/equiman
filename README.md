@@ -15,6 +15,8 @@ const equiman = () => ({
 })
 ```
 
+---
+
 ### 🇺🇸 NuGet Packages - C# .Net Core Console Libraries for Win+Mac+Linux
 
 - [Colorify](https://github.com/deinsoftware/colorify)  
@@ -24,6 +26,8 @@ const equiman = () => ({
 - [ToolBox](https://github.com/deinsoftware/toolbox)  
   Utilities like: command line, files, log, platform, shell, system, transform and validation.  
   [![Downloads](https://img.shields.io/nuget/dt/dein.Toolbox.svg)](https://www.nuget.org/packages/dein.Toolbox/)
+
+---
 
 ### 🇺🇸 Top Articles
 
@@ -38,11 +42,19 @@ const equiman = () => ({
 - [iTerm2 + Oh My Zsh! + Powerlevel9K best terminal combination for Geeks!](https://dev.to/equiman/iterm2--oh-my-zsh--powerlevel9k-best-terminal-combination-for-geeks-58l5)
 - [How to use MacOS's Touch ID on Terminal](https://dev.to/equiman/how-to-use-macos-s-touch-id-on-terminal-5fhg)
 
-### 🇪🇸 Cursos
+---
+
+### 🇪🇸 Cursos / Workshops
 
 Curso sobre JSON (**GRATIS** en YouTube)  
 [![Curso de JSON](https://img.youtube.com/vi/JJFXgEpcGbg/mqdefault.jpg)](https://www.youtube.com/playlist?list=PLrDTf5qnZdEAiHO19QB9hq5QXAef1h8oY)  
 Incluye explicación detallada y ejercicios prácticos.
+
+Workshop Sobre JSON (**GRATIS** en YouTube)  
+[![Workshop de JSON](https://img.youtube.com/vi/draXtq0gTrM/mqdefault.jpg)](https://www.youtube.com/playlist?list=PLrDTf5qnZdEDF1wXZjpJGfIf82r0Z_Meb)  
+Online para la comuidad de [ReactCBA](https://twitter.com/reactcba) 🇦🇷
+
+---
 
 ### Get in touch
 
