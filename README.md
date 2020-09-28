@@ -46,11 +46,11 @@ const equiman = () => ({
 
 ### 🇪🇸 Cursos / Workshops
 
-Curso sobre JSON (**GRATIS** en YouTube)  
+- Curso sobre JSON (**GRATIS** en YouTube)  
 [![Curso de JSON](https://img.youtube.com/vi/JJFXgEpcGbg/mqdefault.jpg)](https://www.youtube.com/playlist?list=PLrDTf5qnZdEAiHO19QB9hq5QXAef1h8oY)  
 Incluye explicación detallada y ejercicios prácticos.
 
-Workshop Sobre JSON (**GRATIS** en YouTube)  
+- Workshop Sobre JSON (**GRATIS** en YouTube)  
 [![Workshop de JSON](https://img.youtube.com/vi/draXtq0gTrM/mqdefault.jpg)](https://www.youtube.com/playlist?list=PLrDTf5qnZdEDF1wXZjpJGfIf82r0Z_Meb)  
 Online para la comunidad de [Refactor Devs](https://twitter.com/refactordevs) 🇦🇷
 
