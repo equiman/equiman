@@ -33,9 +33,10 @@ const equiman = () => ({
 
 #### Development
 
+- [Terminal & ZSH Series](https://dev.to/equiman/series/11407)
 - [VSCode - Flavors Series](https://dev.to/equiman/series/8983)
 - [VSCode - Create Files and Folders on the go](https://dev.to/equiman/vscode-create-files-and-folders-on-the-go-2hd6)
-- [JSON - Hekpful tips series](https://dev.to/equiman/series/64)
+- [JSON - Helpful tips series](https://dev.to/equiman/series/64)
 - [How to test media queries with Chrome](https://dev.to/equiman/how-to-test-media-queries-with-chrome-5d8c)
 - [console.log() hack for debugging](https://dev.to/equiman/console-log-hack-for-debugging-3cfi)
 - [.Net Core Unit Test and Code Coverage with Visual Studio Code](https://dev.to/equiman/net-core-unit-test-and-code-coverage-with-visual-studio-code-37bp)
