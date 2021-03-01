@@ -29,7 +29,7 @@ const equiman = () => ({
 
 ---
 
-### 🇺🇸 Top Articles
+### Top Articles
 
 #### Development
 
@@ -60,7 +60,7 @@ const equiman = () => ({
 
 ---
 
-### 🇪🇸 Cursos / Workshops
+### Cursos / Workshops (Español)
 
 - Curso sobre JSON (**GRATIS** en YouTube)  
 [![Curso de JSON](https://img.youtube.com/vi/JJFXgEpcGbg/mqdefault.jpg)](https://www.youtube.com/playlist?list=PLrDTf5qnZdEAiHO19QB9hq5QXAef1h8oY)  
