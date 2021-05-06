@@ -7,7 +7,7 @@ I'm **Camilo Martínez**, better known as **Equiman** a software developer enthu
 ```javascript
 const equiman = () => ({
   me: [ "family-man", "engineer", "software-developer", "metalhead" ],
-  code: [ "javascript", "html", "css", "c-sharp", "sql", "bash", "batch" ],
+  code: [ "javascript", "html", "css", "react", "c-sharp", "sql", "bash", "batch" ],
   tools: [ "visual-studio-code", "github", "github-actions", "gulp", "jenkins", "gimp", "sonar-qube" ],
   os: [ "windows", "ubuntu", "macos" ],
   worked: [ "apache-cordova", "jquery", "bootstrap", "ext-net", "razor", "sql-server", "mysql", "excel-vba"],
