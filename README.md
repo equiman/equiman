@@ -77,7 +77,7 @@ Online para la comunidad de [Refactor Devs](https://twitter.com/refactordevs) ðŸ
 Talk nerdy to me! ðŸ¤“
 
 [![Twitter Badge](https://img.shields.io/badge/-@equiman-gray?style=flat&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/equiman)](https://twitter.com/equiman)
-[![Dev.to Badge](https://img.shields.io/badge/-@equiman-gray?style=flat&labelColor=0A0A0A&logo=dev.to&logoColor=white&link=https://dev.to/equiman)](https://dev.to/equiman)
+[![Dev.to Badge](https://img.shields.io/badge/-@equiman-gray?style=flat&labelColor=0A0A0A&logo=dev-dot-to&logoColor=white&link=https://dev.to/equiman)](https://dev.to/equiman)
 [![YouTube Badge](https://img.shields.io/badge/-@equimancho-gray?style=flat&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c//equimancho)](https://youtube.com/c//equimancho)
 [![StackOverflow Badge](https://img.shields.io/badge/-@equiman-gray?style=flat&labelColor=FE7A16&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/story/equiman)](https://stackoverflow.com/story/equiman)
 [![LinkedIn Badge](https://img.shields.io/badge/-@equiman-gray?style=flat&labelColor=0077B5&logo=linkedin&logoColor=white&link=https://linkedin.com/in/equiman)](https://linkedin.com/in/equiman)
