@@ -18,7 +18,7 @@ const equiman = () => ({
 ---
 
 - [vscode-arrow-snippets](https://github.com/deinsoftware/vscode-arrow-snippets)  
-  The quick and easy way to create and use Arrow Functions with VS Code.
+  The quick and easy way to create and use Arrow Functions with VS Code.  
   [![Version](https://vsmarketplacebadge.apphb.com/version/deinsoftware.arrow-function-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.arrow-function-snippets) [![Installs](https://vsmarketplacebadge.apphb.com/installs/deinsoftware.arrow-function-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.arrow-function-snippets) [![Ratings](https://vsmarketplacebadge.apphb.com/rating/deinsoftware.arrow-function-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.arrow-function-snippets)
 
 ### 🇺🇸 NuGet Packages - C# .Net Core Console Libraries for Win+Mac+Linux
