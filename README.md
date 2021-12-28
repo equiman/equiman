@@ -84,7 +84,7 @@ Online para la comunidad de [Medellin JS](https://medellinjs.org/) 🇨🇴
 
 ### Get in touch
 
-Talk nerdy to me! 🤓
+#TalkNerdyToMe 🤓
 
 [![Twitter Badge](https://img.shields.io/badge/-@equiman-gray?style=flat&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/equiman)](https://twitter.com/equiman)
 [![Dev.to Badge](https://img.shields.io/badge/-@equiman-gray?style=flat&labelColor=0A0A0A&logo=devdotto&logoColor=white&link=https://dev.to/equiman)](https://dev.to/equiman)
