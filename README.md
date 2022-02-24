@@ -89,7 +89,7 @@ Online para la comunidad de [Medellin JS](https://medellinjs.org/) 🇨🇴
 [![Twitter Badge](https://img.shields.io/badge/-@equiman-gray?style=flat&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/equiman)](https://twitter.com/equiman)
 [![Dev.to Badge](https://img.shields.io/badge/-@equiman-gray?style=flat&labelColor=0A0A0A&logo=devdotto&logoColor=white&link=https://dev.to/equiman)](https://dev.to/equiman)
 [![YouTube Badge](https://img.shields.io/badge/-@equimancho-gray?style=flat&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c//equimancho)](https://youtube.com/c//equimancho)
-[![StackOverflow Badge](https://img.shields.io/badge/-@equiman-gray?style=flat&labelColor=FE7A16&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/story/equiman)](https://stackoverflow.com/story/equiman)
+[![StackOverflow Badge](https://img.shields.io/badge/-@equiman-gray?style=flat&labelColor=FE7A16&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/story/equiman)](https://stackoverflow.com/users/812915)
 [![LinkedIn Badge](https://img.shields.io/badge/-@equiman-gray?style=flat&labelColor=0077B5&logo=linkedin&logoColor=white&link=https://linkedin.com/in/equiman)](https://linkedin.com/in/equiman)
 
 ### Sponsors
