@@ -22,16 +22,23 @@ const equiman = () => ({
 - [Arrow Function Snippets](https://github.com/deinsoftware/vscode-arrow-snippets)  
   The quick and easy way to create and use Arrow Functions with VS Code.  
   [![Installs](https://vsmarketplacebadge.apphb.com/installs/deinsoftware.arrow-function-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.arrow-function-snippets)
+  
+  [![Arrow Functions](https://raw.githubusercontent.com/deinsoftware/vscode-arrow-snippets/main/.github/social/preview.png)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.arrow-function-snippets)
 
 ### 🇺🇸 NuGet Packages - C# .Net Core Console Libraries for Win+Mac+Linux
 
 - [Colorify](https://github.com/deinsoftware/colorify)  
   Text Format: colors, alignment and lot more.  
   [![Downloads](https://img.shields.io/nuget/dt/dein.Colorify.svg)](https://www.nuget.org/packages/dein.Colorify/)
+  
+  [![Colorify](https://github.com/deinsoftware/colorify/raw/master/.github/social/preview.png)](https://www.nuget.org/packages/dein.Colorify)
+  
 
 - [ToolBox](https://github.com/deinsoftware/toolbox)  
   Utilities like: command line, files, log, platform, shell, system, transform and validation.  
   [![Downloads](https://img.shields.io/nuget/dt/dein.Toolbox.svg)](https://www.nuget.org/packages/dein.Toolbox/)
+  
+  [![Colorify](https://github.com/deinsoftware/toolbox/raw/master/.github/social/preview.png)](https://www.nuget.org/packages/dein.ToolBox)
 
 ---
 
