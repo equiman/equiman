@@ -19,17 +19,19 @@ const equiman = () => ({
 
 ### 🇺🇸 VS Code Extensions
 
+- [Const & Props Snippets](https://github.com/deinsoftware/vscode-const-props-snippets)  
+  The quick and easy way to create and use Const & Props with VS Code.  
+  [![Installs](https://vsmarketplacebadge.apphb.com/installs/deinsoftware.const-props-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.const-props-snippets)
+  
+  [![Const & Props](https://raw.githubusercontent.com/deinsoftware/vscode-const-props-snippets/main/.github/social/preview.png)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.const-props-snippets)
+  
 - [Arrow Function Snippets](https://github.com/deinsoftware/vscode-arrow-snippets)  
   The quick and easy way to create and use Arrow Functions with VS Code.  
   [![Installs](https://vsmarketplacebadge.apphb.com/installs/deinsoftware.arrow-function-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.arrow-function-snippets)
   
   [![Arrow Functions](https://raw.githubusercontent.com/deinsoftware/vscode-arrow-snippets/main/.github/social/preview.png)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.arrow-function-snippets)
   
-- [Const & Props Snippets](https://github.com/deinsoftware/vscode-const-props-snippets)  
-  The quick and easy way to create and use Const & Props with VS Code.  
-  [![Installs](https://vsmarketplacebadge.apphb.com/installs/deinsoftware.const-props-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.const-props-snippets)
-  
-  [![Const & Props](https://raw.githubusercontent.com/deinsoftware/vscode-const-props-snippets/main/.github/social/preview.png)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.const-props-snippets)
+
 
 ### 🇺🇸 NuGet Packages - C# .Net Core Console Libraries for Win+Mac+Linux
 
