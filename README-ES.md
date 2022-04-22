@@ -38,20 +38,14 @@ También las pueden instalar en combo con este pack de extensiones:
 | ---: | ------ | --------- |
 | ![light-icon@64w](https://user-images.githubusercontent.com/933393/164783435-07b78338-c630-4da9-927d-eee5941f30e5.png) | [dein Snippets Pack](https://github.com/deinsoftware/vscode-dein-snippets-pack)<br/>La forma mas fácil y rápida de crear y usar **Const**, **Props** y **Arrow Functions** (Funciones Flecha) con VS Code | [![Installs](https://vsmarketplacebadge.apphb.com/installs/deinsoftware.dein-snippets-pack.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.dein-snippets-pack) |
 
-### 🇺🇸 NuGet Packages - C# Librerias en .Net para aplicaciones de consola en Win+Mac+Linux
+### NuGet Packages
 
-- [Colorify](https://github.com/deinsoftware/colorify)  
-  Formateo de Texto: colores, alineación y mucho mas.  
-  [![Downloads](https://img.shields.io/nuget/dt/dein.Colorify.svg)](https://www.nuget.org/packages/dein.Colorify/)
-  
-  [![Colorify](https://github.com/deinsoftware/colorify/raw/master/.github/social/preview.png)](https://www.nuget.org/packages/dein.Colorify)
-  
+Librerias en C# .Net para aplicaciones de consola en Win+Mac+Linux
 
-- [ToolBox](https://github.com/deinsoftware/toolbox)  
-  Utilidades: linea de comandos, archivos, logs, plataformas, shell, system, transformaciones y validaciones.  
-  [![Downloads](https://img.shields.io/nuget/dt/dein.Toolbox.svg)](https://www.nuget.org/packages/dein.Toolbox/)
-  
-  [![Colorify](https://github.com/deinsoftware/toolbox/raw/master/.github/social/preview.png)](https://www.nuget.org/packages/dein.ToolBox)
+| Extension | NuGet  | Insignias |
+| :-------: | ------ | --------- |
+| ![colorify](https://user-images.githubusercontent.com/933393/164784579-1596124e-74ae-4860-ae23-1e0e87b8c7c6.png) | [Colorify](https://github.com/deinsoftware/colorify)<br/>Formateo de Texto: colores, alineación y mucho mas. | [![Downloads](https://img.shields.io/nuget/dt/dein.Colorify.svg)](https://www.nuget.org/packages/dein.Colorify/) |
+| ![toolbox](https://user-images.githubusercontent.com/933393/164784586-6e03917e-1ebe-448b-baad-f147d265c3d3.png) | [ToolBox](https://github.com/deinsoftware/toolbox)<br/>Utilidades: linea de comandos, archivos, logs, plataformas, shell, system, transformaciones y validaciones. | [![Downloads](https://img.shields.io/nuget/dt/dein.Toolbox.svg)](https://www.nuget.org/packages/dein.Toolbox/) |
 
 ---
 
