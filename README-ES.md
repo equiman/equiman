@@ -23,29 +23,20 @@ const equiman = () => ({
 
 ---
 
-### 🇺🇸 VS Code Extensions
+### Extensiones para VS Code 
 
 Estas son unas extensiones para [VS Code](https://code.visualstudio.com/) con Snippets (Fragmentos) que he creado para aumentar la velocidad en el desarrollo.
 
-- [Const & Props Snippets](https://github.com/deinsoftware/vscode-const-props-snippets)  
-  Las forma mas fácil y rápida de crear y usar Const & Props con VS Code.  
-  [![Installs](https://vsmarketplacebadge.apphb.com/installs/deinsoftware.const-props-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.const-props-snippets)
-  
-  [![Const & Props](https://raw.githubusercontent.com/deinsoftware/vscode-const-props-snippets/main/.github/social/preview.png)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.const-props-snippets)
-  
-- [Arrow Function Snippets](https://github.com/deinsoftware/vscode-arrow-snippets)  
-  Las forma mas fácil y rápida de crear y usar Arrow Functions (Funciones Flecha) con VS Code.  
-  [![Installs](https://vsmarketplacebadge.apphb.com/installs/deinsoftware.arrow-function-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.arrow-function-snippets)
-  
-  [![Arrow Functions](https://raw.githubusercontent.com/deinsoftware/vscode-arrow-snippets/main/.github/social/preview.png)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.arrow-function-snippets)
-  
+| Extension | Tienda | Insignias |
+| :-------: | ------ | --------- |
+| ![Const & Props](https://user-images.githubusercontent.com/933393/164782988-9ff75d92-1bae-44e6-adca-1edf8edfea0f.png) | [Const & Props Snippets](https://github.com/deinsoftware/vscode-const-props-snippets)<br/> forma mas fácil y rápida de crear y usar **Const** & **Props** con VS Code. | [![Installs](https://vsmarketplacebadge.apphb.com/installs/deinsoftware.const-props-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.const-props-snippets) |
+| ![Arrow Functions](https://user-images.githubusercontent.com/933393/164782117-80a63fa8-a1d7-4980-b978-ec3fbdaf2c1d.png) | [Arrow Function Snippets](https://github.com/deinsoftware/vscode-arrow-snippets)<br/>La forma mas fácil y rápida de crear y usar **Arrow Functions** (Funciones Flecha) con VS Code. | [![Installs](https://vsmarketplacebadge.apphb.com/installs/deinsoftware.arrow-function-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.arrow-function-snippets) |
+
 También las pueden instalar en combo con este pack de extensiones:
-  
-  - [dein Snippets Pack](https://github.com/deinsoftware/vscode-dein-snippets-pack)  
-  
-  [![Installs](https://vsmarketplacebadge.apphb.com/installs/deinsoftware.dein-snippets-pack.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.dein-snippets-pack)
-  
-  [![Snippets Pack](https://raw.githubusercontent.com/deinsoftware/vscode-dein-snippets-pack/main/.github/social/preview.png)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.dein-snippets-pack)
+
+| Pack | Tienda | Insignias |
+| ---: | ------ | --------- |
+| ![light-icon@64w](https://user-images.githubusercontent.com/933393/164783435-07b78338-c630-4da9-927d-eee5941f30e5.png) | [dein Snippets Pack](https://github.com/deinsoftware/vscode-dein-snippets-pack)<br/>La forma mas fácil y rápida de crear y usar **Const**, **Props** y **Arrow Functions** (Funciones Flecha) con VS Code | [![Installs](https://vsmarketplacebadge.apphb.com/installs/deinsoftware.dein-snippets-pack.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.dein-snippets-pack) |
 
 ### 🇺🇸 NuGet Packages - C# Librerias en .Net para aplicaciones de consola en Win+Mac+Linux
 
