@@ -6,6 +6,8 @@ Lenguaje: [🇺🇸] [English](README.md) - [🇪🇸] [Español](README-ES.md)
 
 Soy **Camilo Martínez**, mas conocido como **Equiman** un desarrollador de software de Medellín, Colombia 🇨🇴.
 
+![Medellin](https://user-images.githubusercontent.com/933393/164779706-9434093e-61cd-4e6e-86a9-5c23ec90b1b1.png)
+
 ### About
 
 ```javascript
