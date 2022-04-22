@@ -64,7 +64,7 @@ C# .Net Core Console Libraries for Win+Mac+Linux
 
 ---
 
-### 🇺🇸 Top Answers (Stack Overflow)
+### Top Answers (Stack Overflow)
 
 - [How to detect idle time in JavaScript elegantly?](https://stackoverflow.com/questions/667555/how-to-detect-idle-time-in-javascript-elegantly/10126042#10126042)
 - [Graph API how get facebook page members/likes](https://stackoverflow.com/questions/14632000/graph-api-how-get-facebook-page-members-likes/37684600#37684600)
