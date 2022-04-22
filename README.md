@@ -25,8 +25,8 @@ const equiman = () => ({
 
 ### VS Code Extensions
 
-| Extension | Repository | Insignias |
-| :-------: | ---------- | --------- |
+| Extension | Repository | Badges |
+| :-------: | ---------- | ------ |
 | ![Const & Props](https://user-images.githubusercontent.com/933393/164782988-9ff75d92-1bae-44e6-adca-1edf8edfea0f.png) | [Const & Props Snippets](https://github.com/deinsoftware/vscode-const-props-snippets)<br/>The quick and easy way to create and use **Const** & **Props** with VS Code. | [![Version](https://vsmarketplacebadge.apphb.com/version/deinsoftware.const-props-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.const-props-snippets)<br/>[![Installs](https://vsmarketplacebadge.apphb.com/installs/deinsoftware.const-props-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.const-props-snippets) |
 | ![Arrow Functions](https://user-images.githubusercontent.com/933393/164782117-80a63fa8-a1d7-4980-b978-ec3fbdaf2c1d.png) | [Arrow Function Snippets](https://github.com/deinsoftware/vscode-arrow-snippets)<br/>The quick and easy way to create and use **Arrow Functions** with VS Code. | [![Version](https://vsmarketplacebadge.apphb.com/version/deinsoftware.arrow-function-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.arrow-function-snippets)<br/>[![Installs](https://vsmarketplacebadge.apphb.com/installs/deinsoftware.arrow-function-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.arrow-function-snippets) |
 | ![light-icon@64w](https://user-images.githubusercontent.com/933393/164783435-07b78338-c630-4da9-927d-eee5941f30e5.png) | [dein Snippets Pack](https://github.com/deinsoftware/vscode-dein-snippets-pack)<br/>Pack with both extensions: **Const & Props** + **Arrow Functions** | [![Version](https://vsmarketplacebadge.apphb.com/version/deinsoftware.dein-snippets-pack.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.dein-snippets-pack)<br/>[![Installs](https://vsmarketplacebadge.apphb.com/installs/deinsoftware.dein-snippets-pack.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.dein-snippets-pack) |
@@ -35,8 +35,8 @@ const equiman = () => ({
 
 C# .Net Console Libraries for Win+Mac+Linux
 
-| NuGet | Repository | Insignias |
-| :---: | ---------- | --------- |
+| NuGet | Repository | Badges |
+| :---: | ---------- | ------ |
 | ![colorify](https://user-images.githubusercontent.com/933393/164784579-1596124e-74ae-4860-ae23-1e0e87b8c7c6.png) | [Colorify](https://github.com/deinsoftware/colorify)<br/>Text Format: colors, alignment and lot more. | [![nuget-version](https://img.shields.io/nuget/v/dein.Colorify.svg)](https://www.nuget.org/packages/dein.Colorify/)<br/>[![Downloads](https://img.shields.io/nuget/dt/dein.Colorify.svg)](https://www.nuget.org/packages/dein.Colorify/) |
 | ![toolbox](https://user-images.githubusercontent.com/933393/164784586-6e03917e-1ebe-448b-baad-f147d265c3d3.png) | [ToolBox](https://github.com/deinsoftware/toolbox)<br/>Utilities like: command line, files, log, platform, shell, system, transform and validation. | [![nuget-version](https://img.shields.io/nuget/v/dein.ToolBox.svg)](https://www.nuget.org/packages/dein.ToolBox/)<br/>[![Downloads](https://img.shields.io/nuget/dt/dein.Toolbox.svg)](https://www.nuget.org/packages/dein.Toolbox/) |
 
