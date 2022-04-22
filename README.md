@@ -33,7 +33,7 @@ const equiman = () => ({
 
 ### NuGet Packages
 
-C# .Net Core Console Libraries for Win+Mac+Linux
+C# .Net Console Libraries for Win+Mac+Linux
 
 | Extension | NuGet  | Insignias |
 | :-------: | ------ | --------- |
