@@ -25,11 +25,9 @@ const equiman = () => ({
 
 ### Extensiones para VS Code 
 
-Estas son unas extensiones para [VS Code](https://code.visualstudio.com/) con Snippets (Fragmentos) que he creado para aumentar la velocidad en el desarrollo.
-
 | Extension | Repositorio | Insignias |
 | :-------: | ------ | --------- |
-| ![Const & Props](https://user-images.githubusercontent.com/933393/164782988-9ff75d92-1bae-44e6-adca-1edf8edfea0f.png) | [Const & Props Snippets](https://github.com/deinsoftware/vscode-const-props-snippets)<br/> forma mas fácil y rápida de crear y usar **Const** & **Props** con VS Code. | [![Installs](https://vsmarketplacebadge.apphb.com/installs/deinsoftware.const-props-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.const-props-snippets) |
+| ![Const & Props](https://user-images.githubusercontent.com/933393/164782988-9ff75d92-1bae-44e6-adca-1edf8edfea0f.png) | [Const & Props Snippets](https://github.com/deinsoftware/vscode-const-props-snippets)<br/>La forma mas fácil y rápida de crear y usar **Const** & **Props** con VS Code. | [![Installs](https://vsmarketplacebadge.apphb.com/installs/deinsoftware.const-props-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.const-props-snippets) |
 | ![Arrow Functions](https://user-images.githubusercontent.com/933393/164782117-80a63fa8-a1d7-4980-b978-ec3fbdaf2c1d.png) | [Arrow Function Snippets](https://github.com/deinsoftware/vscode-arrow-snippets)<br/>La forma mas fácil y rápida de crear y usar **Arrow Functions** (Funciones Flecha) con VS Code. | [![Installs](https://vsmarketplacebadge.apphb.com/installs/deinsoftware.arrow-function-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.arrow-function-snippets) |
 | ![light-icon@64w](https://user-images.githubusercontent.com/933393/164783435-07b78338-c630-4da9-927d-eee5941f30e5.png) | [dein Snippets Pack](https://github.com/deinsoftware/vscode-dein-snippets-pack)<br/>Pack con las dos extensiones: **Const & Props** + **Arrow Functions** | [![Installs](https://vsmarketplacebadge.apphb.com/installs/deinsoftware.dein-snippets-pack.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.dein-snippets-pack) |
 
@@ -39,8 +37,8 @@ Librerias en C# .Net para aplicaciones de consola en Win+Mac+Linux
 
 | Extension | NuGet  | Insignias |
 | :-------: | ------ | --------- |
-| ![colorify](https://user-images.githubusercontent.com/933393/164784579-1596124e-74ae-4860-ae23-1e0e87b8c7c6.png) | [Colorify](https://github.com/deinsoftware/colorify)<br/>Formateo de Texto: colores, alineación y mucho mas. | [![Downloads](https://img.shields.io/nuget/dt/dein.Colorify.svg)](https://www.nuget.org/packages/dein.Colorify/) |
-| ![toolbox](https://user-images.githubusercontent.com/933393/164784586-6e03917e-1ebe-448b-baad-f147d265c3d3.png) | [ToolBox](https://github.com/deinsoftware/toolbox)<br/>Utilidades: linea de comandos, archivos, logs, plataformas, shell, system, transformaciones y validaciones. | [![Downloads](https://img.shields.io/nuget/dt/dein.Toolbox.svg)](https://www.nuget.org/packages/dein.Toolbox/) |
+| ![colorify](https://user-images.githubusercontent.com/933393/164784579-1596124e-74ae-4860-ae23-1e0e87b8c7c6.png) | [Colorify](https://github.com/deinsoftware/colorify)<br/>Formateo de Texto: colores, alineación y mucho mas. | [![Downloads](https://img.shields.io/nuget/dt/dein.Colorify.svg)](https://www.nuget.org/packages/dein.Colorify/)<br/>[![nuget-version](https://img.shields.io/nuget/v/dein.Colorify.svg)](https://www.nuget.org/packages/dein.Colorify/) |
+| ![toolbox](https://user-images.githubusercontent.com/933393/164784586-6e03917e-1ebe-448b-baad-f147d265c3d3.png) | [ToolBox](https://github.com/deinsoftware/toolbox)<br/>Utilidades: linea de comandos, archivos, logs, plataformas, shell, system, transformaciones y validaciones. | [![Downloads](https://img.shields.io/nuget/dt/dein.Toolbox.svg)](https://www.nuget.org/packages/dein.Toolbox/)<br/>[![nuget-version](https://img.shields.io/nuget/v/dein.ToolBox.svg)](https://www.nuget.org/packages/dein.ToolBox/) |
 
 ---
 
