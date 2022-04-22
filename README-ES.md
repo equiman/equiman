@@ -37,8 +37,8 @@ Librerias en C# .Net para aplicaciones de consola en Win+Mac+Linux
 
 | Extension | NuGet  | Insignias |
 | :-------: | ------ | --------- |
-| ![colorify](https://user-images.githubusercontent.com/933393/164784579-1596124e-74ae-4860-ae23-1e0e87b8c7c6.png) | [Colorify](https://github.com/deinsoftware/colorify)<br/>Formateo de Texto: colores, alineación y mucho mas. | [![Downloads](https://img.shields.io/nuget/dt/dein.Colorify.svg)](https://www.nuget.org/packages/dein.Colorify/)<br/>[![nuget-version](https://img.shields.io/nuget/v/dein.Colorify.svg)](https://www.nuget.org/packages/dein.Colorify/) |
-| ![toolbox](https://user-images.githubusercontent.com/933393/164784586-6e03917e-1ebe-448b-baad-f147d265c3d3.png) | [ToolBox](https://github.com/deinsoftware/toolbox)<br/>Utilidades: linea de comandos, archivos, logs, plataformas, shell, system, transformaciones y validaciones. | [![Downloads](https://img.shields.io/nuget/dt/dein.Toolbox.svg)](https://www.nuget.org/packages/dein.Toolbox/)<br/>[![nuget-version](https://img.shields.io/nuget/v/dein.ToolBox.svg)](https://www.nuget.org/packages/dein.ToolBox/) |
+| ![colorify](https://user-images.githubusercontent.com/933393/164784579-1596124e-74ae-4860-ae23-1e0e87b8c7c6.png) | [Colorify](https://github.com/deinsoftware/colorify)<br/>Formateo de Texto: colores, alineación y mucho mas. | [![nuget-version](https://img.shields.io/nuget/v/dein.Colorify.svg)](https://www.nuget.org/packages/dein.Colorify/)<br/>[![Downloads](https://img.shields.io/nuget/dt/dein.Colorify.svg)](https://www.nuget.org/packages/dein.Colorify/) |
+| ![toolbox](https://user-images.githubusercontent.com/933393/164784586-6e03917e-1ebe-448b-baad-f147d265c3d3.png) | [ToolBox](https://github.com/deinsoftware/toolbox)<br/>Utilidades: linea de comandos, archivos, logs, plataformas, shell, system, transformaciones y validaciones. | [![nuget-version](https://img.shields.io/nuget/v/dein.ToolBox.svg)](https://www.nuget.org/packages/dein.ToolBox/)<br/>[![Downloads](https://img.shields.io/nuget/dt/dein.Toolbox.svg)](https://www.nuget.org/packages/dein.Toolbox/) |
 
 ---
 
