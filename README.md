@@ -6,6 +6,8 @@ Language: [🇪🇸] [Español](README-ES.md) - [🇺🇸] [English](README.md)
 
 I'm **Camilo Martínez**, better known as **Equiman** a software developer enthusiast from Medellín, Colombia 🇨🇴.
 
+![Medellin](https://user-images.githubusercontent.com/933393/164779706-9434093e-61cd-4e6e-86a9-5c23ec90b1b1.png)
+
 ### About
 
 ```javascript
