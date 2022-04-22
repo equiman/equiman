@@ -87,26 +87,6 @@ const equiman = () => ({
 
 ---
 
-### Videos (Español) 
-
-- Curso sobre JSON (**GRATIS** en YouTube)  
-[![Curso de JSON](https://img.youtube.com/vi/JJFXgEpcGbg/mqdefault.jpg)](https://www.youtube.com/playlist?list=PLrDTf5qnZdEAiHO19QB9hq5QXAef1h8oY)  
-Incluye explicación detallada y ejercicios prácticos.
-
-- Workshop sobre JSON (**GRATIS** en YouTube)  
-[![Workshop de JSON](https://img.youtube.com/vi/draXtq0gTrM/mqdefault.jpg)](https://www.youtube.com/playlist?list=PLrDTf5qnZdEDF1wXZjpJGfIf82r0Z_Meb)  
-Online para la comunidad de [Refactor Devs](https://twitter.com/refactordevs) 🇦🇷
-
-- Charla sobre Property Drilling en React  
-[![React - Property Drilling](https://img.youtube.com/vi/awe9W4EbJXo/mqdefault.jpg)](https://www.youtube.com/watch?v=awe9W4EbJXo)  
-Online para la comunidad de [Medellin JS](https://medellinjs.org/) 🇨🇴
-
-- Charla sobre Property Drilling en React v2.0.0  
-[![React - Property Drilling](https://img.youtube.com/vi/8dNgfqFmuw0/mqdefault.jpg)](https://youtu.be/8dNgfqFmuw0?t=5269)  
-Online para la comunidad de [Beer JS CBA](https://www.beerjscba.com/) 🇦🇷
-
----
-
 ### Get in touch
 
 #TalkNerdyToMe 🤓
