@@ -31,6 +31,15 @@ const equiman = () => ({
 | ![Arrow Functions](https://user-images.githubusercontent.com/933393/164782117-80a63fa8-a1d7-4980-b978-ec3fbdaf2c1d.png) | [Arrow Function Snippets](https://github.com/deinsoftware/vscode-arrow-snippets)<br/>The quick and easy way to create and use **Arrow Functions** with VS Code. | [![Version](https://vsmarketplacebadge.apphb.com/version/deinsoftware.arrow-function-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.arrow-function-snippets)<br/>[![Installs](https://vsmarketplacebadge.apphb.com/installs/deinsoftware.arrow-function-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.arrow-function-snippets) |
 | ![snippets-pack](https://user-images.githubusercontent.com/933393/166967987-bc51de54-0d57-45b0-a6cb-56acc260a244.png) | [dein Snippets Pack](https://github.com/deinsoftware/vscode-dein-snippets-pack)<br/>Pack with both extensions: **Const & Props** + **Arrow Functions** | [![Version](https://vsmarketplacebadge.apphb.com/version/deinsoftware.dein-snippets-pack.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.dein-snippets-pack)<br/>[![Installs](https://vsmarketplacebadge.apphb.com/installs/deinsoftware.dein-snippets-pack.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.dein-snippets-pack) |
 
+### NPM Packages
+
+| npm | Repository | Badges |
+| :---: | ---------- | ------ |
+| ![swpm](https://user-images.githubusercontent.com/933393/168690773-d74ef7df-143b-4447-b0e6-425dd7ad4209.png) | [swpm](https://github.com/deinsoftware/swpm)<br/>Auto Switch Package Manager. | [![Downloads](https://badgen.net/npm/dt/chalk)](https://www.npmjs.com/package/swpm) |
+
+
+
+
 ### NuGet Packages
 
 C# .Net Console Libraries for Win+Mac+Linux
