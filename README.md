@@ -35,10 +35,7 @@ const equiman = () => ({
 
 | npm | Repository |
 | :---: | ---------- |
-| ![swpm](https://user-images.githubusercontent.com/933393/168690773-d74ef7df-143b-4447-b0e6-425dd7ad4209.png) | [swpm](https://github.com/deinsoftware/swpm)<br/>Auto Switch Package Manager. |
-
-
-
+| ![swpm](https://user-images.githubusercontent.com/933393/168690773-d74ef7df-143b-4447-b0e6-425dd7ad4209.png) | [swpm](https://github.com/deinsoftware/swpm)<br/>Auto Switch Package Manager |
 
 ### NuGet Packages
 
