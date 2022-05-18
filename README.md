@@ -35,7 +35,7 @@ const equiman = () => ({
 
 | npm | Repository | Badges |
 | :---: | -------- | ------ |
-| ![swpm](https://user-images.githubusercontent.com/933393/168690773-d74ef7df-143b-4447-b0e6-425dd7ad4209.png) | [swpm](https://github.com/deinsoftware/swpm)<br/>Auto Switch Package Manager | [![npm-version](https://img.shields.io/npm/v/swpm.svg?color=blue)](https://www.npmjs.com/package/swpm)<br/>[![npm-downloads](https://img.shields.io/npm/dt/swpm)](https://www.npmjs.com/package/swpm) |
+| ![swpm-logo](https://raw.githubusercontent.com/deinsoftware/swpm/main/.github/brand/logo.png) | [swpm](https://github.com/deinsoftware/swpm)<br/>Auto Switch Package Manager | [![npm-version](https://img.shields.io/npm/v/swpm.svg?color=blue)](https://www.npmjs.com/package/swpm)<br/>[![npm-downloads](https://img.shields.io/npm/dt/swpm)](https://www.npmjs.com/package/swpm) |
 
 ### NuGet Packages
 
