@@ -43,7 +43,7 @@ C# .Net Console Libraries for Win+Mac+Linux
 
 | NuGet | Repository | Badges |
 | :---: | ---------- | ------ |
-| ![colorify](https://user-images.githubusercontent.com/933393/164784579-1596124e-74ae-4860-ae23-1e0e87b8c7c6.png) | [Colorify](https://github.com/deinsoftware/colorify)<br/>Text Format: colors, alignment and lot more. | [![nuget-version](https://img.shields.io/nuget/v/dein.Colorify.svg)](https://www.nuget.org/packages/dein.Colorify/)<br/>[![Downloads](https://img.shields.io/nuget/dt/dein.Colorify.svg)](https://www.nuget.org/packages/dein.Colorify/) |
+| ![colorify](https://user-images.githubusercontent.com/933393/169176226-92444c96-2873-41e3-bb86-4dcce2cb41f7.png) | [Colorify](https://github.com/deinsoftware/colorify)<br/>Text Format: colors, alignment and lot more. | [![nuget-version](https://img.shields.io/nuget/v/dein.Colorify.svg)](https://www.nuget.org/packages/dein.Colorify/)<br/>[![Downloads](https://img.shields.io/nuget/dt/dein.Colorify.svg)](https://www.nuget.org/packages/dein.Colorify/) |
 | ![toolbox](https://user-images.githubusercontent.com/933393/164784586-6e03917e-1ebe-448b-baad-f147d265c3d3.png) | [ToolBox](https://github.com/deinsoftware/toolbox)<br/>Utilities like: command line, files, log, platform, shell, system, transform and validation. | [![nuget-version](https://img.shields.io/nuget/v/dein.ToolBox.svg)](https://www.nuget.org/packages/dein.ToolBox/)<br/>[![Downloads](https://img.shields.io/nuget/dt/dein.Toolbox.svg)](https://www.nuget.org/packages/dein.Toolbox/) |
 
 ---
