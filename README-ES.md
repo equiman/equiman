@@ -43,7 +43,7 @@ Librerias en C# .Net para aplicaciones de consola en Win+Mac+Linux
 
 | NuGet | Repositorio | Insignias |
 | :---: | ----------- | --------- |
-| ![colorify](https://user-images.githubusercontent.com/933393/169176226-92444c96-2873-41e3-bb86-4dcce2cb41f7.png) | [Colorify](https://github.com/deinsoftware/colorify)<br/>Formateo de Texto: colores, alineación y mucho mas. | [![nuget-version](https://img.shields.io/nuget/v/dein.Colorify.svg)](https://www.nuget.org/packages/dein.Colorify/)<br/>[![Downloads](https://img.shields.io/nuget/dt/dein.Colorify.svg)](https://www.nuget.org/packages/dein.Colorify/) |
+| ![colorify](https://user-images.githubusercontent.com/933393/169667883-3c480ee6-6f35-4ed6-b91d-b222de1a5e81.png) | [Colorify](https://github.com/deinsoftware/colorify)<br/>Formateo de Texto: colores, alineación y mucho mas. | [![nuget-version](https://img.shields.io/nuget/v/dein.Colorify.svg)](https://www.nuget.org/packages/dein.Colorify/)<br/>[![Downloads](https://img.shields.io/nuget/dt/dein.Colorify.svg)](https://www.nuget.org/packages/dein.Colorify/) |
 | ![toolbox](https://user-images.githubusercontent.com/933393/169667696-63208dab-2a3a-4acc-91c3-0c5fbbb3b08d.png) | [ToolBox](https://github.com/deinsoftware/toolbox)<br/>Utilidades: linea de comandos, archivos, logs, plataformas, shell, system, transformaciones y validaciones. | [![nuget-version](https://img.shields.io/nuget/v/dein.ToolBox.svg)](https://www.nuget.org/packages/dein.ToolBox/)<br/>[![Downloads](https://img.shields.io/nuget/dt/dein.Toolbox.svg)](https://www.nuget.org/packages/dein.Toolbox/) |
 
 ---
