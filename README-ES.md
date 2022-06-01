@@ -23,6 +23,12 @@ const equiman = () => ({
 
 ---
 
+### NPM Packages
+
+| npm | Repositorio | Insignias |
+| :---: | --------- | --------- |
+| ![swpm-icon64](https://raw.githubusercontent.com/deinsoftware/swpm/main/.github/icons/icon_64.png) | [swpm](https://github.com/deinsoftware/swpm)<br/>Cambio Automático de Gestor de Paquetes | [![npm-version](https://img.shields.io/npm/v/swpm.svg?color=blue)](https://www.npmjs.com/package/swpm)<br/>[![npm-downloads](https://img.shields.io/npm/dt/swpm)](https://www.npmjs.com/package/swpm) |
+
 ### Extensiones para VS Code 
 
 | Extension | Repositorio | Insignias |
@@ -30,12 +36,6 @@ const equiman = () => ({
 | ![const-props](https://user-images.githubusercontent.com/933393/169392614-1131aedf-6152-4c63-9f73-36cfbfe82b94.png) | [Const & Props Snippets](https://github.com/deinsoftware/vscode-const-props-snippets)<br/>La forma mas fácil y rápida de crear y usar **Const** & **Props** con VS Code. | [![Version](https://vsmarketplacebadge.apphb.com/version/deinsoftware.const-props-snippets.svg?color=blue&label=version)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.const-props-snippets)<br/>[![Installs](https://vsmarketplacebadge.apphb.com/installs/deinsoftware.const-props-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.const-props-snippets) |
 | ![arrow-functions](https://user-images.githubusercontent.com/933393/169668134-08228ce4-ed43-4069-93cf-13dede9ba483.png) | [Arrow Function Snippets](https://github.com/deinsoftware/vscode-arrow-snippets)<br/>La forma mas fácil y rápida de crear y usar **Arrow Functions** (Funciones Flecha) con VS Code. | [![Version](https://vsmarketplacebadge.apphb.com/version/deinsoftware.arrow-function-snippets.svg?color=blue&label=version)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.arrow-function-snippets)<br/>[![Installs](https://vsmarketplacebadge.apphb.com/installs/deinsoftware.arrow-function-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.arrow-function-snippets) |
 | ![snippets-pack](https://user-images.githubusercontent.com/933393/169393637-4f583314-8322-4e41-99fb-e9cec60fb82e.png) | [dein Snippets Pack](https://github.com/deinsoftware/vscode-dein-snippets-pack)<br/>Pack con las dos extensiones: **Const & Props** + **Arrow Functions** | [![Version](https://vsmarketplacebadge.apphb.com/version/deinsoftware.dein-snippets-pack.svg?color=blue&label=version)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.dein-snippets-pack)<br/>[![Installs](https://vsmarketplacebadge.apphb.com/installs/deinsoftware.dein-snippets-pack.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.dein-snippets-pack) |
-
-### NPM Packages
-
-| npm | Repositorio | Insignias |
-| :---: | --------- | --------- |
-| ![swpm-icon64](https://raw.githubusercontent.com/deinsoftware/swpm/main/.github/icons/icon_64.png) | [swpm](https://github.com/deinsoftware/swpm)<br/>Cambio Automático de Gestor de Paquetes | [![npm-version](https://img.shields.io/npm/v/swpm.svg?color=blue)](https://www.npmjs.com/package/swpm)<br/>[![npm-downloads](https://img.shields.io/npm/dt/swpm)](https://www.npmjs.com/package/swpm) |
 
 ### NuGet Packages
 
