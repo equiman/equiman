@@ -27,7 +27,7 @@ const equiman = () => ({
 
 | npm | Repositorio | Insignias |
 | :---: | --------- | --------- |
-| ![swpm-icon64](https://raw.githubusercontent.com/deinsoftware/swpm/main/.github/icons/icon_64.png) | [swpm](https://github.com/deinsoftware/swpm)<br/>Cambio Automático de Gestor de Paquetes | [![npm-version](https://img.shields.io/npm/v/swpm.svg?color=blue)](https://www.npmjs.com/package/swpm)<br/>[![npm-downloads](https://img.shields.io/npm/dt/swpm)](https://www.npmjs.com/package/swpm) |
+| ![swpm-icon64](https://raw.githubusercontent.com/deinsoftware/swpm/main/.github/icons/icon_64.png) | [swpm](https://github.com/deinsoftware/swpm)<br/>Cambio Automático de Gestor de Paquetes. No importa cual use `npm`, `yarn` o `pnpm`. | [![npm-version](https://img.shields.io/npm/v/swpm.svg?color=blue)](https://www.npmjs.com/package/swpm)<br/>[![npm-downloads](https://img.shields.io/npm/dt/swpm)](https://www.npmjs.com/package/swpm) |
 
 ### Extensiones para VS Code 
 
