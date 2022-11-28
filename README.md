@@ -86,7 +86,7 @@ C# .Net Console Libraries for Win+Mac+Linux
 
 [![Twitter Badge](https://img.shields.io/badge/-@equiman-gray?style=flat&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/equiman)](https://twitter.com/equiman)
 [![Dev.to Badge](https://img.shields.io/badge/-@equiman-gray?style=flat&labelColor=0A0A0A&logo=devdotto&logoColor=white&link=https://dev.to/equiman)](https://dev.to/equiman)
-[![YouTube Badge](https://img.shields.io/badge/-@equimancho-gray?style=flat&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c//equimancho)](https://youtube.com/c//equimancho)
+[![YouTube Badge](https://img.shields.io/badge/-@equiman-gray?style=flat&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/@equiman)](https://youtube.com/@equiman)
 [![StackOverflow Badge](https://img.shields.io/badge/-@equiman-gray?style=flat&labelColor=FE7A16&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/story/equiman)](https://stackoverflow.com/users/812915)
 [![LinkedIn Badge](https://img.shields.io/badge/-@equiman-gray?style=flat&labelColor=0077B5&logo=linkedin&logoColor=white&link=https://linkedin.com/in/equiman)](https://linkedin.com/in/equiman)
 
