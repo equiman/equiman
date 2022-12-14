@@ -2,7 +2,7 @@ Language: [🇪🇸] [Español](README-ES.md) - [🇺🇸] [English](README.md)
 
 ---
 
-## console.log('Hello World! 👋, fellow <coders!> 👩‍💻👨‍💻') 
+## console.log('Hello World! 👋, fellow <coders!> 👩‍💻👨‍💻')
 
 I'm **Camilo Martínez**, better known as **Equiman** a software developer enthusiast from Medellín, Colombia 🇨🇴.
 
@@ -33,10 +33,10 @@ const equiman = () => ({
 
 | Extension | Repository | Badges |
 | :-------: | ---------- | ------ |
-| ![debug](https://user-images.githubusercontent.com/933393/177670862-31c779bc-2062-42dd-bb49-d0d705abece3.png) | [Debug Snippets](https://github.com/deinsoftware/vscode-debug-snippets)<br/>The quick and easy way to debug your code and styles with with VS Code. | [![Version](https://vsmarketplacebadges.dev/version/deinsoftware.debug-snippets.svg?color=blue&label=version)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.debug-snippets)<br/>[![Installs](https://vsmarketplacebadges.dev/installs/deinsoftware.debug-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.debug-snippets) |
-| ![const-props](https://user-images.githubusercontent.com/933393/169392614-1131aedf-6152-4c63-9f73-36cfbfe82b94.png) | [Const & Props Snippets](https://github.com/deinsoftware/vscode-const-props-snippets)<br/>The quick and easy way to create and use **Const** & **Props** with VS Code. | [![Version](https://vsmarketplacebadges.dev/version/deinsoftware.const-props-snippets.svg?color=blue&label=version)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.const-props-snippets)<br/>[![Installs](https://vsmarketplacebadges.dev/installs/deinsoftware.const-props-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.const-props-snippets) |
-| ![arrow-functions](https://user-images.githubusercontent.com/933393/169668134-08228ce4-ed43-4069-93cf-13dede9ba483.png) | [Arrow Function Snippets](https://github.com/deinsoftware/vscode-arrow-snippets)<br/>The quick and easy way to create and use **Arrow Functions** with VS Code. | [![Version](https://vsmarketplacebadges.dev/version/deinsoftware.arrow-function-snippets.svg?color=blue&label=version)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.arrow-function-snippets)<br/>[![Installs](https://vsmarketplacebadges.dev/installs/deinsoftware.arrow-function-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.arrow-function-snippets) |
-| ![snippets-pack](https://user-images.githubusercontent.com/933393/169393637-4f583314-8322-4e41-99fb-e9cec60fb82e.png) | [dein Snippets Pack](https://github.com/deinsoftware/vscode-dein-snippets-pack)<br/>Pack with both extensions: **Debug** + **Const & Props** + **Arrow Functions** | [![Version](https://vsmarketplacebadges.dev/version/deinsoftware.dein-snippets-pack.svg?color=blue&label=version)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.dein-snippets-pack)<br/>[![Installs](https://vsmarketplacebadges.dev/installs/deinsoftware.dein-snippets-pack.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.dein-snippets-pack) |
+| ![debug](https://user-images.githubusercontent.com/933393/177670862-31c779bc-2062-42dd-bb49-d0d705abece3.png) | [Debug Snippets](https://github.com/deinsoftware/vscode-debug-snippets)<br/>The quick and easy way to debug your code and styles with with VS Code. | [![Version](https://img.shields.io/visual-studio-marketplace/v/deinsoftware.debug-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.debug-snippets)<br/>[![Installs](https://img.shields.io/visual-studio-marketplace/i/deinsoftware.debug-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.debug-snippets) |
+| ![const-props](https://user-images.githubusercontent.com/933393/169392614-1131aedf-6152-4c63-9f73-36cfbfe82b94.png) | [Const & Props Snippets](https://github.com/deinsoftware/vscode-const-props-snippets)<br/>The quick and easy way to create and use **Const** & **Props** with VS Code. | [![Version](https://img.shields.io/visual-studio-marketplace/v/deinsoftware.const-props-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.const-props-snippets)<br/>[![Installs](https://img.shields.io/visual-studio-marketplace/i/deinsoftware.const-props-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.const-props-snippets) |
+| ![arrow-functions](https://user-images.githubusercontent.com/933393/169668134-08228ce4-ed43-4069-93cf-13dede9ba483.png) | [Arrow Function Snippets](https://github.com/deinsoftware/vscode-arrow-snippets)<br/>The quick and easy way to create and use **Arrow Functions** with VS Code. | [![Version](https://img.shields.io/visual-studio-marketplace/v/deinsoftware.arrow-function-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.arrow-function-snippets)<br/>[![Installs](https://img.shields.io/visual-studio-marketplace/i/deinsoftware.arrow-function-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.arrow-function-snippets) |
+| ![snippets-pack](https://user-images.githubusercontent.com/933393/169393637-4f583314-8322-4e41-99fb-e9cec60fb82e.png) | [dein Snippets Pack](https://github.com/deinsoftware/vscode-dein-snippets-pack)<br/>Pack with both extensions: **Debug** + **Const & Props** + **Arrow Functions** | [![Version](https://img.shields.io/visual-studio-marketplace/v/deinsoftware.dein-snippets-pack.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.dein-snippets-pack)<br/>[![Installs](https://img.shields.io/visual-studio-marketplace/i/deinsoftware.dein-snippets-pack.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.dein-snippets-pack) |
 
 ### NuGet Packages
 
@@ -82,7 +82,7 @@ C# .Net Console Libraries for Win+Mac+Linux
 
 ### Get in touch
 
-#TalkNerdyToMe 🤓
+# TalkNerdyToMe 🤓
 
 [![Twitter Badge](https://img.shields.io/badge/-@equiman-gray?style=flat&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/equiman)](https://twitter.com/equiman)
 [![Dev.to Badge](https://img.shields.io/badge/-@equiman-gray?style=flat&labelColor=0A0A0A&logo=devdotto&logoColor=white&link=https://dev.to/equiman)](https://dev.to/equiman)
