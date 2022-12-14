@@ -40,7 +40,7 @@ const equiman = () => ({
 
 ### NuGet Packages
 
-Librerias en C# .Net para aplicaciones de consola en Win+Mac+Linux
+Bibliotecas en C# .Net para aplicaciones de consola en Win+Mac+Linux
 
 | NuGet | Repositorio | Insignias |
 | :---: | ----------- | --------- |
