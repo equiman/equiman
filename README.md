@@ -27,7 +27,7 @@ const equiman = () => ({
 
 | npm | Repository | Badges |
 | :---: | -------- | ------ |
-| ![swpm-icon64](https://raw.githubusercontent.com/deinsoftware/swpm/main/.github/icons/icon_64.png) | [swpm](https://github.com/deinsoftware/swpm)<br/>Auto Switch Package Manager. It doesn't matter which one uses `npm`, `yarn`, `pnpm` or `bun`. | [![npm-version](https://img.shields.io/npm/v/swpm.svg?color=blue)](https://www.npmjs.com/package/swpm)<br/>[![npm-downloads](https://img.shields.io/npm/dt/swpm)](https://www.npmjs.com/package/swpm) |
+| ![swpm-icon64](https://raw.githubusercontent.com/deinsoftware/swpm/main/.github/icons/icon_64.png) | [swpm](https://github.com/deinsoftware/swpm)<br/>Switch Package Manager - Say goodbye to Package Manager confusion. It doesn't matter which one uses `npm`, `yarn`, `pnpm` or `bun`. | [![npm-version](https://img.shields.io/npm/v/swpm.svg?color=blue)](https://www.npmjs.com/package/swpm)<br/>[![npm-downloads](https://img.shields.io/npm/dt/swpm)](https://www.npmjs.com/package/swpm) |
 
 ### VS Code Extensions
 
