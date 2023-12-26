@@ -13,7 +13,7 @@ Soy **Camilo Martínez**, mas conocido como **Equiman** un desarrollador de soft
 ```javascript
 const equiman = () => ({
   me: [ "family-man", "engineer", "software-developer", "metalhead" ],
-  codeo: [ "javascript", "html", "css", "react", "c-sharp", "sql", "bash", "batch" ],
+  codeo: [ "javascript", "html", "css", "react", "node", "sql", "bash" ],
   herramientas: [ "visual-studio-code", "github", "github-actions", "figma", "gimp", "sonar-qube" ],
   os: [ "windows", "ubuntu", "macos" ],
   trabajando: [ "apache-cordova", "jquery", "bootstrap", "ext-net", "sql-server", "mysql", "excel-vba"],
