@@ -17,7 +17,7 @@ const equiman = () => ({
   tools: [ "visual-studio-code", "github", "github-actions", "figma", "gimp", "sonar-qube" ],
   os: [ "windows", "ubuntu", "macos" ],
   worked: [ "apache-cordova", "jquery", "bootstrap", "ext-net", "sql-server", "mysql", "excel-vba"],
-  learning: [ "english", "react", "next", "unit-testing", "typescript" ]
+  learning: [ "english", "react", "next", "testing", "typescript" ]
 })
 ```
 
