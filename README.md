@@ -14,10 +14,10 @@ I'm **Camilo Martínez**, better known as **Equiman** a software developer enthu
 const equiman = () => ({
   me: [ "family-man", "engineer", "software-developer", "metalhead" ],
   code: [ "javascript", "html", "css", "react", "c-sharp", "sql", "bash", "batch" ],
-  tools: [ "visual-studio-code", "github", "github-actions", "gulp", "jenkins", "gimp", "sonar-qube" ],
+  tools: [ "visual-studio-code", "github", "github-actions", "figma", "gimp", "sonar-qube" ],
   os: [ "windows", "ubuntu", "macos" ],
-  worked: [ "apache-cordova", "jquery", "bootstrap", "ext-net", "razor", "sql-server", "mysql", "excel-vba"],
-  learning: [ "english", "react", "jest", "unit-testing" ]
+  worked: [ "apache-cordova", "jquery", "bootstrap", "ext-net", "sql-server", "mysql", "excel-vba"],
+  learning: [ "english", "react", "next", "unit-testing" ]
 })
 ```
 
