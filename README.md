@@ -16,7 +16,7 @@ const equiman = () => ({
   code: [ "javascript", "html", "css", "react", "node", "sql", "bash" ],
   tools: [ "visual-studio-code", "github", "github-actions", "figma", "gimp", "sonar-qube" ],
   os: [ "windows", "ubuntu", "macos" ],
-  worked: [ "apache-cordova", "jquery", "bootstrap", "ext-net", "sql-server", "mysql", "excel-vba"],
+  worked: [ "apache-cordova", "jquery", "bootstrap", ".net", "C#", "ext-net", "sql-server", "mysql", "excel-vba"],
   learning: [ "english", "react", "next", "testing", "typescript" ]
 })
 ```
