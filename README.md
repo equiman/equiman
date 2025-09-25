@@ -40,7 +40,7 @@ const equiman = () => ({
 | ![vitest](https://user-images.githubusercontent.com/933393/221454646-15d4b784-4f32-4c18-a09e-006cdade9f02.png) | [Vitest Snippets](https://github.com/deinsoftware/vscode-vitest-snippets)<br/>The quick and easy way to create and use **Vitest** with VS Code. | [![Version](https://img.shields.io/visual-studio-marketplace/v/deinsoftware.vitest-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.vitest-snippets)<br/>[![Installs](https://img.shields.io/visual-studio-marketplace/i/deinsoftware.vitest-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.vitest-snippets) |
 | ![testing-library](https://user-images.githubusercontent.com/933393/229695278-93fccdee-3533-45e4-b9c5-c6ef75946d31.png) | [Testing Library Snippets](https://github.com/deinsoftware/vscode-testing-library-snippets)<br/>The quick and easy way to create and use **Testing Library** with VS Code. | [![Version](https://img.shields.io/visual-studio-marketplace/v/deinsoftware.testing-library-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.testing-library-snippets)<br/>[![Installs](https://img.shields.io/visual-studio-marketplace/i/deinsoftware.testing-library-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.testing-library-snippets) |
 
-> Also availables for Cursor and Windsurf on: https://open-vsx.org/namespace/deinsoftware
+> Also availables for **Cursor** and **Windsurf** on: [https://open-vsx.org/namespace/deinsoftware](https://open-vsx.org/namespace/deinsoftware)
 
 ### NuGet Packages
 
